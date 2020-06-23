@@ -1,7 +1,3 @@
-Drivers/
+obj/
 Obj/
-Exe/
-**.o
-**.crf
-**.d
-**.axf
+OBJ/

@@ -22,7 +22,7 @@
   </DaveTm>
 
   <Target>
-    <TargetName>Template</TargetName>
+    <TargetName>KAI</TargetName>
     <ToolsetNumber>0x4</ToolsetNumber>
     <ToolsetName>ARM-ADS</ToolsetName>
     <TargetOption>

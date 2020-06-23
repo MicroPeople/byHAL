@@ -1,0 +1,34 @@
+{
+	"configurations": [
+		{
+			"name": "Win32",
+			"includePath": [
+				"${workspaceFolder}/new/HALLIB/Inc/**",
+				"${workspaceFolder}/new/USER/**",
+				"${workspaceFolder}/new/CORE/**",
+				"${workspaceFolder}/new/SYSTEM/**"
+			],
+			"browse": {
+				"path": [
+					"${workspaceFolder}/new/HALLIB/Inc/**",
+					"${workspaceFolder}/new/HALLIB/Src/**",
+
+					"${workspaceFolder}/new/USER/**",
+					"${workspaceFolder}/new/CORE/**",
+					"${workspaceFolder}/new/SYSTEM/**"
+				]
+			},
+			"defines": [
+				"_DEBUG",
+				"UNICODE",
+				"_UNICODE",
+				"USE_HAL_DRIVER",
+				"STM32F407xx"
+			],
+			"windowsSdkVersion": "10.0.17763.0",
+			"compilerPath": "D:/Program/gcc/mingw64/bin/gcc.exe",
+			"intelliSenseMode": "gcc-x64"
+		}
+	],
+	"version": 4
+}
