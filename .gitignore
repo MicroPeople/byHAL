@@ -1,0 +1,7 @@
+Drivers/
+Obj/
+Exe/
+**.o
+**.crf
+**.d
+**.axf
