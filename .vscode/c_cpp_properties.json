@@ -3,19 +3,18 @@
 		{
 			"name": "Win32",
 			"includePath": [
-				"${workspaceFolder}/new/HALLIB/Inc/**",
-				"${workspaceFolder}/new/USER/**",
-				"${workspaceFolder}/new/CORE/**",
-				"${workspaceFolder}/new/SYSTEM/**"
+				"${workspaceFolder}/HALLIB/Inc/**",
+				"${workspaceFolder}/USER/**",
+				"${workspaceFolder}/CORE/**",
+				"${workspaceFolder}/SYSTEM/**"
 			],
 			"browse": {
 				"path": [
-					"${workspaceFolder}/new/HALLIB/Inc/**",
-					"${workspaceFolder}/new/HALLIB/Src/**",
-
-					"${workspaceFolder}/new/USER/**",
-					"${workspaceFolder}/new/CORE/**",
-					"${workspaceFolder}/new/SYSTEM/**"
+					"${workspaceFolder}/HALLIB/Inc/**",
+					"${workspaceFolder}/HALLIB/Src/**",
+					"${workspaceFolder}/USER/**",
+					"${workspaceFolder}/CORE/**",
+					"${workspaceFolder}/SYSTEM/**"
 				]
 			},
 			"defines": [
